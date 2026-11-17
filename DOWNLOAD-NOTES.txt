@@ -1,0 +1,7 @@
+Beyond GHC current app source
+
+This is source code, not a double-click desktop application or a static GitHub Pages site.
+It includes application code, assets, tests, and database schema migrations.
+It does not contain live database rows, account sessions, passwords, private environment configuration, dependencies, or built output.
+Existing accounts and shared data remain in Lovable Cloud. A separate data export and hosting setup are required to move them.
+Firebase static Hosting alone cannot run the existing server actions.
